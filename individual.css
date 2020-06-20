@@ -41,13 +41,11 @@ width: 50%;
 height: 31px;
 left: 551px;
 top: 186px;
-
 font-family: DM Sans;
 font-style: normal;
 font-weight: 500;
 font-size: 24px;
 line-height: 31px;
-
 color: #04172A;
 }
 
@@ -58,7 +56,7 @@ width: 670px;
 height: 416px;
 left: 140px;
 top: 257px;
-background: url(images/photo.png);
+background: url("https://i.ibb.co/mBjwP4r/photo.png");
 background-repeat: no-repeat; 
 }
 
@@ -81,6 +79,8 @@ width: 400px;
 height: 513px;
 left: 850px;
 top: 257px;
+right: 550px;
+bottom: 340px;
 /* border: 2px dashed red; */
 background: #FFFFFF;
 border: 1px solid rgba(4, 23, 42, 0.25);
